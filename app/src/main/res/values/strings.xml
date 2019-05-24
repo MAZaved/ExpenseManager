@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ExpenseManager</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">Expense…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Expense not saved because it is empty.</string>
 </resources>
